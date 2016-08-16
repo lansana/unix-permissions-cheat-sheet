@@ -77,7 +77,7 @@ Let's use the examples from the symbolic notation section and show how it'd conv
 |`--w--w--w-`     |0222          |All classes can write|
 |`---x--x--x`     |0111          |All classes can execute|
 
-## CHMOD command
+## CHMOD commands
 
 Now that we have a better understanding of permissions and what all of these letters and numbers mean, let's take a look at how we can use the `chmod` command in our terminal to change permissions to anything we'd like!
 
