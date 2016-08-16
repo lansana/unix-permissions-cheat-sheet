@@ -33,7 +33,7 @@ The first class is the **user** class. The second class is the **group** class. 
 
 Each of the three characters for a class represents the read, write and execute permissions.
 
-- `r` will be displayed is reading is permitted
+- `r` will be displayed if reading is permitted
 - `w` will be displayed if writing is permitted
 - `x` will be displayed if execution is permitted
 - `-` will be displayed in the place of `r`, `w`, and `x`, if the respective permission is *not* permitted
