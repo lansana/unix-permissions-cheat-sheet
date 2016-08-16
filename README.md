@@ -18,7 +18,7 @@ If a user is not the owner, nor a member of the group, then they are classified 
 
 ## Changing permissions
 
-In order to change permissions, we need to first understand the three notations of permissions.
+In order to change permissions, we need to first understand the two notations of permissions.
 
 1. Symbolic notation
 2. Octal notation
