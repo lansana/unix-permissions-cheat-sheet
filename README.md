@@ -40,9 +40,9 @@ Each of the three characters for a class represents the read, write and execute 
 
 Here are some examples of symbolic notation:
 
-- `-rwxr--r--` -- A regular file whose **user** class has read/write/execute, **group** class has only read permissions, **other** class has only read permissions
-- `drw-rw-r--` -- A directory whose **user** class has read/write permissions, **group** class has only read permissions, **other** class has only read permissions
-- `crwxrw-r--` -- A character special file whose **user** has read/write/execute permissions, **group** class has read/write permissions, **other** class has only read permissions
+- `-rwxr--r--`: A regular file whose **user** class has read/write/execute, **group** class has only read permissions, **other** class has only read permissions
+- `drw-rw-r--`: A directory whose **user** class has read/write permissions, **group** class has only read permissions, **other** class has only read permissions
+- `crwxrw-r--`: A character special file whose **user** has read/write/execute permissions, **group** class has read/write permissions, **other** class has only read permissions
 
 ### Octal notation
 
