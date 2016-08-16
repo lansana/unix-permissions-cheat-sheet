@@ -46,9 +46,9 @@ Here are some examples of symbolic notation:
 
 ### Octal notation
 
-Octal (base-8) notation consists of at least 3 digits (sometimes 4, the left-most digit, which represents the setiud bit, the setgid bit, and the stickt bit).
+Octal (base-8) notation consists of at least 3 digits (sometimes 4, the left-most digit, which represents the setiud bit, the setgid bit, and the sticky bit).
 
-Each of the three right-most digits are the sum of its component bits in the binray numeral system. 
+Each of the three right-most digits are the sum of its component bits in the binary numeral system. 
 
 For example:
 
@@ -75,9 +75,9 @@ Let's use the examples from the symbolic notation section and show how it'd conv
 |`-r--r--r--`     |0444          |All classes can read|
 |`--wx-wx-wx`     |0333          |All classes can write/execute|
 |`--w--w--w-`     |0222          |All classes can write|
-|`---x--x--x`     |0111          |ALl classes can execute|
+|`---x--x--x`     |0111          |All classes can execute|
 
-## CHMOD
+## CHMOD command
 
 Now that we have a better understanding of permissions and what all of these letters and numbers mean, let's take a look at how we can use the `chmod` command in our terminal to change permissions to anything we'd like!
 
