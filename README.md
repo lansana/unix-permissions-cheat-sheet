@@ -46,7 +46,7 @@ Here are some examples of symbolic notation:
 
 ### Octal notation
 
-Octal (base-8) notation consists of at least 3 digits (sometimes 4, the left-most digit, which represents the setiud bit, the setgid bit, and the sticky bit).
+Octal (base-8) notation consists of at least 3 digits (sometimes 4, the left-most digit, which represents the setuid bit, the setgid bit, and the sticky bit).
 
 Each of the three right-most digits are the sum of its component bits in the binary numeral system. 
 
