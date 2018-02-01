@@ -53,7 +53,7 @@ Each of the three right-most digits are the sum of its component bits in the bin
 For example:
 
 - The read bit (`r` in symbolic notation) adds 4 to its total 
-- The write big (`w` in symbolic notation) adds 2 to its total
+- The write bit (`w` in symbolic notation) adds 2 to its total
 - The execute bit (`x` in symbolic notation) adds 1 to its total
 
 So what number would you use if you wanted to set a permission to read and write? 4 + 2 = 6.
