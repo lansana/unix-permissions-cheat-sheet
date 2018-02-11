@@ -4,7 +4,7 @@ I created this repository in hopes that it may be used as a helpful reference.
 
 ## Permissions
 
-Permissions on Unix other systems like it are split into three classes:
+Permissions on Unix and other systems like it are split into three classes:
 
 - User
 - Group
